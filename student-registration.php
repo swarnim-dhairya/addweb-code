@@ -44,14 +44,14 @@
     <input type="tel" pattern="[0-9]+" maxlength="10" placeholder="Enter Phone number" name="mob" id="mob" ><br><br>
 
     <label for="gender"><b>Male</b></label>
-    <input type="radio" placeholder="Enter Phone number" value="male" name="gender" >
+    <input type="radio"  value="male" name="gender" >
 
     
-    <label for="gender"><b>Male</b></label>
-    <input type="radio" placeholder="Enter Phone number" value="female"  name="gender"><br><br>
+    <label for="gender"><b>Female</b></label>
+    <input type="radio"  value="female"  name="gender"><br><br>
 
     <label for="dob"><b>Dob</b></label>
-    <input type="date" placeholder="Enter Phone number" value=""  name="dob"><br><br>
+    <input type="date" placeholder="Enter Dob" value=""  name="dob"><br><br>
 
     <label for="country"><b>Country</b></label>
     <select name="country" required>
